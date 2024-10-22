@@ -13,13 +13,13 @@ main:
     url: /talks/    
 
   - title: "Projects"
-    url: /projects/
+    url: /portfolio/
     
   - title: "Teaching"
     url: /teaching/
         
   - title: "News"
-    url: /news/
+    url: /posts/
     
   - title: "CV"
     url: /files/Resume.pdf
