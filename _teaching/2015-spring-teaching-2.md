@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "CS 3-5891 Reinforcement Learning"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate and Advanced Undergraduate course"
+# permalink: /teaching/2015-spring-teaching-1
+venue: "Fall 2021, Fall 2022, Fall 2023, Fall 2024"
+# date: 2015-01-01
+# location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course introduces students to the theory and practice of Reinforcement Learning.
 
 Heading 1
 ======

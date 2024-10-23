@@ -9,19 +9,20 @@ redirect_from:
 
 I am a research scientist in the Institute for Software Integrated Systems and adjunct professor in the Computer Science department at Vanderbilt University. My research interests are developing and applying foundational machine learning and reinforcement learning methods for the safety, control, and optimization of cyber-physical systems in crucial areas, such as smart mobility, safety in aerospace operations, and energy management optimization. 
 
-I co-lead two research groups of graduate and undergraduate students as part of the [Modeling and Analysis of Complex Systems (MACS)](https://lab.vanderbilt.edu/vumacs/) lab and the [Work lab](https://lab-work.github.io). We have developed  and deployed control systems across buildings, drones, and transportation infrastructure systems. 
+I co-lead two research groups of graduate and undergraduate students as part of the [Modeling and Analysis of Complex Systems (MACS) lab](https://lab.vanderbilt.edu/vumacs/) and the [Work lab](https://lab-work.github.io). We have developed  and deployed control systems across buildings, drones, and transportation infrastructure systems. 
 
 I teach [different classes](https://marcosqg.github.io/teaching/) at the undergraduate and graduate levels. These courses are open to CS/DS students and students from other departments and majors. 
 
 I am member of the Institute of Electrical and Electronics Engineers (IEEE), the American Institute of Aeronautics and Astronautics (AIAA), and the Prognostics and Health Management Society.
 
-News
+News highlights
 ======
-1. November 2024: I will be presenting two papers at The 35th International Conference on Principles of Diagnosis and Resilient Systems (DX'24) in Vienna, Austria. We are also organizing the next edition in Nashville. 
+1. November 2024: I will be presenting two papers at The 35th International Conference on Principles of Diagnosis and Resilient Systems (DX'24) in Vienna, Austria. We are also organizing the next edition in Nashville, 2025. 
 1. October 2024: Our paper "𝗙𝗧-𝗔𝗘𝗗: 𝗕𝗲𝗻𝗰𝗵𝗺𝗮𝗿𝗸 𝗗𝗮𝘁𝗮𝘀𝗲𝘁 𝗳𝗼𝗿 𝗘𝗮𝗿𝗹𝘆 𝗙𝗿𝗲𝗲𝘄𝗮𝘆 𝗧𝗿𝗮𝗳𝗳𝗶𝗰 𝗔𝗻𝗼𝗺𝗮𝗹𝗼𝘂𝘀 𝗘𝘃𝗲𝗻𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻," has been accepted for the Datasets and Benchmarks track at 𝗡𝗲𝘂𝗿𝗜𝗣𝗦 𝟮𝟬𝟮𝟰. 
 1. September 2024: Our research group attends the 27th IEEE International Conference on Intelligent Transportation Systems in Edmonton, Canada. Two papers of our students have been accepted.
-1. July 2024: We attended a workshop about a new project on video analytics for Critical Care Air Transport Team at Cincinnati, Ohio.
+1. August 2024: I attended The Tennessee Drone Symposium hosted at Middle Tennessee State University.
+1. July 2024: I attended a workshop about a new project on video analytics for Critical Care Air Transport Team at Cincinnati, Ohio.
 1. July 2024: Austin Coursey presents our latest work on experiment design for data-driven safe control at AIAA Aviation 2024 in Vegas, Nevada.
-1. July 2024: We successfully flight-tested our disturbance-rejection controller at MIT Lincoln labs. 
+1. July 2024: We successfully flight-tested our disturbance-rejection controller at MIT Lincoln labs! 
 1. July 2024: Austin Coursey presents our latest work on data-driven control at the 2024 American Control Conference in Toronto, Canada.
 1. June 2024: I presented three papers at the 12th IFAC Symposium on Fault Detection, Supervision and Safety for Technical Processes in Ferrara, Italy.
