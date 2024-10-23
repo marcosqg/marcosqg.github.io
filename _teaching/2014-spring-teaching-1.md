@@ -9,12 +9,3 @@ venue: "Spring 2023, Spring 2024"
 ---
 
 Fundamentals of machine learning with emphasis on practical applications to data science problems.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

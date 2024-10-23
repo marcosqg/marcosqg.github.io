@@ -10,11 +10,3 @@ venue: "Fall 2021, Fall 2022, Fall 2023, Fall 2024"
 
 This course introduces students to the theory and practice of Reinforcement Learning.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
