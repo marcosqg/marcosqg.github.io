@@ -9,8 +9,8 @@ main:
     url: https://scholar.google.com/citations?hl=en&user=D6ENug8AAAAJ&view_op=list_works&sortby=pubdate
     # url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/
 
   - title: "Projects"
     url: /portfolio/
@@ -18,8 +18,8 @@ main:
   - title: "Teaching"
     url: /teaching/
         
-  - title: "News"
-    url: /posts/
+#  - title: "News"
+#    url: /posts/
     
   - title: "CV"
     url: /files/Resume.pdf
