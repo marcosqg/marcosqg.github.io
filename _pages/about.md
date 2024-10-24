@@ -17,7 +17,6 @@ I teach [different classes](https://marcosqg.github.io/teaching/) at the undergr
 
 I am member of the Institute of Electrical and Electronics Engineers (IEEE), the American Institute of Aeronautics and Astronautics (AIAA), and the Prognostics and Health Management Society.
 
-I 
 
 Latest news
 ======
