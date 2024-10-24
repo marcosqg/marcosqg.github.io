@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src="{{ '/images/landscape-min.jpeg' | relative_url }}" alt="Landscape" style="width: 100%; max-height: 400px; object-fit: cover;">
+
 I am a research scientist at the Institute for Software Integrated Systems and adjunct professor in the Computer Science department at Vanderbilt University. My research interests are developing and applying foundational machine learning and reinforcement learning methods for the safety, control, and optimization of cyber-physical systems in crucial areas, such as smart mobility, safety in aerospace operations, and energy management optimization. 
 
 I co-lead two research groups of graduate and undergraduate students as part of the [Modeling and Analysis of Complex Systems (MACS) lab](https://lab.vanderbilt.edu/vumacs/) and the [Work lab](https://lab-work.github.io). We have developed  and deployed control systems across buildings, drones, and transportation infrastructure systems. 
