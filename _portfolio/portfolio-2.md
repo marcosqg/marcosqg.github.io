@@ -17,3 +17,5 @@ Our research team proposes the design, development and demonstration of an in-ti
 Vehicle self-awareness and health monitoring during flight is the key for individual aircraft safety. In this project, we integrate model-based and data-driven methods for diagnosis and prognosis of vehicle component faults and degradation in the electric propulsion system (i.e., the battery and motors) and the GPS navigation system. We are currently developing a Reinforcement Learning-based fault adaptive control mitigation scheme that takes into account degradation in battery and motors as well as varying environmental conditions caused by wind disturbances.
 
 This project is part of the [NASA Advance Air Mobility Partnerships](https://www.nasa.gov/missions/aam/aampartners/).
+
+Students: Ibrahim Ahmed, Austin Coursey, Abel Diaz Gonzalez
