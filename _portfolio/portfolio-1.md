@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence-Powered Decision Support Tools for Integrated Corridor Management on Interstate 24 Smart Corridor"
-excerpt: "Our project will use AI to advance a comprehensive Integrated Corridor Management system 1<br/><img src='/images/atcmtd.png'>"
+excerpt: "Our project will use AI to advance a comprehensive Integrated Corridor Management system. <br/><img src='/images/atcmtd.png'>"
 collection: portfolio
 ---
 

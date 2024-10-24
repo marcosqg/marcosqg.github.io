@@ -2,7 +2,7 @@
 title: "Demonstration of the In-Time Learning-Based Safety Management for Scalable Heterogeneous AAM Operations"
 excerpt: "Design, development and demonstration of an in-time learning based
 aviation safety management system (ILASMS) for scalable heterogeneous advanced air
-mobility (AAM) operations."
+mobility (AAM) operations. <br/><img src='/images/safety.jpg'>"
 collection: portfolio
 ---
 
