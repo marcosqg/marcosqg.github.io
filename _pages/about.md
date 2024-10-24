@@ -17,10 +17,12 @@ I teach [different classes](https://marcosqg.github.io/teaching/) at the undergr
 
 I am member of the Institute of Electrical and Electronics Engineers (IEEE), the American Institute of Aeronautics and Astronautics (AIAA), and the Prognostics and Health Management Society.
 
+I 
+
 Latest news
 ======
 1. November 2024: I will be presenting two papers at The 35th International Conference on Principles of Diagnosis and Resilient Systems (DX'24) in Vienna, Austria. We are also organizing the next edition in Nashville, 2025. 
-1. October 2024: Our paper "𝗙𝗧-𝗔𝗘𝗗: 𝗕𝗲𝗻𝗰𝗵𝗺𝗮𝗿𝗸 𝗗𝗮𝘁𝗮𝘀𝗲𝘁 𝗳𝗼𝗿 𝗘𝗮𝗿𝗹𝘆 𝗙𝗿𝗲𝗲𝘄𝗮𝘆 𝗧𝗿𝗮𝗳𝗳𝗶𝗰 𝗔𝗻𝗼𝗺𝗮𝗹𝗼𝘂𝘀 𝗘𝘃𝗲𝗻𝘁 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻," has been accepted for the Datasets and Benchmarks track at 𝗡𝗲𝘂𝗿𝗜𝗣𝗦 𝟮𝟬𝟮𝟰. 
+1. October 2024: Our paper "FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection" has been accepted for the Datasets and Benchmarks track at NeurIPS 2024.
 1. September 2024: Our research group attended the 27th IEEE International Conference on Intelligent Transportation Systems in Edmonton, Canada. Two papers of our students have been accepted.
 1. August 2024: I attended The Tennessee Drone Symposium hosted at Middle Tennessee State University.
 1. July 2024: I participated in a workshop about a new project on video analytics for Critical Care Air Transport Team held at the University of Cincinnati Medical Center Cincinnati C-STARS, Ohio.
