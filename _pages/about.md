@@ -20,6 +20,7 @@ I am member of the Institute of Electrical and Electronics Engineers (IEEE), the
 
 Latest news
 ======
+1. November 2024: Our paper "MARVEL: Bringing Multi-Agent Reinforcement-Learning Based Variable Speed Limit Controllers Closer to Deployment" has been accepted for publication at IEEE Access.
 1. November 2024: I will be presenting two papers at The 35th International Conference on Principles of Diagnosis and Resilient Systems (DX'24) in Vienna, Austria. We are also organizing the next edition in Nashville, 2025. 
 1. October 2024: Our paper "FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection" has been accepted for the Datasets and Benchmarks track at NeurIPS 2024.
 1. September 2024: Our research group attended the 27th IEEE International Conference on Intelligent Transportation Systems in Edmonton, Canada. Two papers of our students have been accepted.
