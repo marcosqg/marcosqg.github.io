@@ -15,7 +15,7 @@ I co-lead two research groups of graduate and undergraduate students as part of 
 
 I teach [different classes](https://marcosqg.github.io/teaching/) at the undergraduate and graduate levels. These courses are open to CS/DS students and students from other departments and majors. 
 
-I am member of the Institute of Electrical and Electronics Engineers (IEEE), the American Institute of Aeronautics and Astronautics (AIAA), and the Prognostics and Health Management Society.
+I am member of the Institute of Electrical and Electronics Engineers (IEEE), the American Institute of Aeronautics and Astronautics (AIAA), and the Prognostics and Health Management Society (PHM).
 
 
 Latest news
