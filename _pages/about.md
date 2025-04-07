@@ -20,7 +20,8 @@ I am member of the Institute of Electrical and Electronics Engineers (IEEE), the
 
 Latest news
 ======
-1. March 2025: Our paper "On the Design of Safe Continual RL Methods for Control of Nonlinear Systems" has been accepted for ECC 2025.
+1. March 2025: Two papers have been accepted to the 16th ACM/IEEE International Conference on Cyber-Physical Systems: "Real-Time Freeway Traffic Anomalous Event Detection System via Radar Detector Sensors" led by Austin Coursey, and "1000DaySim: Open-Source Traffic Simulation With Real Data Over Long Time Horizons" led by Zhiyao Zhang.  
+2. March 2025: Our paper "On the Design of Safe Continual RL Methods for Control of Nonlinear Systems" has been accepted for ECC 2025.
 1. February 2025: We won the 2025 Best Paper award - TRB subcommittee on Travel Time Speed and Reliability for our work “Assessing an AI-based Variable Speed Limit System on Proactive Slowdown Warnings with Ultra-High Fidelity Speed Data”.
 1. January 2025: I am organizing and chairing the next [International Conference on Principles of Diagnosis and Resilient Systems (DX'25)](https://conf.researchr.org/home/dx-2025)
 1. January 2025: One of our graduate students in the Work lab, Yuhang Zhang, presents our results in Assessing an AI-based Variable Speed Limit System on Proactive Slowdown Warnings with Ultra-High Fidelity Speed Data at the TRB Annual Meeting
