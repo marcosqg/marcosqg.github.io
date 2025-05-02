@@ -20,7 +20,7 @@ I am member of the Institute of Electrical and Electronics Engineers (IEEE), the
 
 Latest news
 ======
-1. April 2025: I have presented the results of our NASA SWS work in the NASA SWS R&D workshop on In-Time Safety Management Capabilities for Emerging Aviation Operations (https://nari.arc.nasa.gov/events/sws-tc-2).
+1. April 2025: I have presented the results of our NASA SWS work in the NASA SWS R&D workshop on In-Time Safety Management Capabilities for Emerging Aviation Operations ([https://nari.arc.nasa.gov/events/sws-tc-2](https://nari.arc.nasa.gov/events/sws-tc-2)).
 1. March 2025: Two papers have been accepted to the 16th ACM/IEEE International Conference on Cyber-Physical Systems: "Real-Time Freeway Traffic Anomalous Event Detection System via Radar Detector Sensors" led by Austin Coursey, and "1000DaySim: Open-Source Traffic Simulation With Real Data Over Long Time Horizons" led by Zhiyao Zhang.  
 1. March 2025: Our paper "On the Design of Safe Continual RL Methods for Control of Nonlinear Systems" has been accepted for ECC 2025.
 1. February 2025: We won the 2025 Best Paper award - TRB subcommittee on Travel Time Speed and Reliability for our work “Assessing an AI-based Variable Speed Limit System on Proactive Slowdown Warnings with Ultra-High Fidelity Speed Data”.
