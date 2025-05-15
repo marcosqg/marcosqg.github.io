@@ -20,6 +20,8 @@ I am member of the Institute of Electrical and Electronics Engineers (IEEE), the
 
 Latest news
 ======
+1. May 2025: Our submission to the [DX Liu-ICE competition](https://vehsys.gitlab-pages.liu.se/dx25benchmarks/liuice/liuice_index) won the first place.
+1. May 2025: Our paper  ["1000DaySim"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D6ENug8AAAAJ&sortby=pubdate&citation_for_view=D6ENug8AAAAJ:hMsQuOkrut0C) led by Zhiyao Zhang won the Best Poster/Demo award at the 16th ACM/IEEE International Conference on Cyber-Physical Systems.
 1. April 2025: I have presented the results of our NASA SWS work in the NASA SWS R&D workshop on In-Time Safety Management Capabilities for Emerging Aviation Operations ([https://nari.arc.nasa.gov/events/sws-tc-2](https://nari.arc.nasa.gov/events/sws-tc-2)).
 1. March 2025: Two papers have been accepted to the 16th ACM/IEEE International Conference on Cyber-Physical Systems: "Real-Time Freeway Traffic Anomalous Event Detection System via Radar Detector Sensors" led by Austin Coursey, and "1000DaySim: Open-Source Traffic Simulation With Real Data Over Long Time Horizons" led by Zhiyao Zhang.  
 1. March 2025: Our paper "On the Design of Safe Continual RL Methods for Control of Nonlinear Systems" has been accepted for ECC 2025.
