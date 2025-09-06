@@ -22,6 +22,9 @@ Latest news
 ======
 1. August 2025: Our paper "Real-World Deployment and Assessment of a Multi-Agent Reinforcement Learning-Based Variable Speed Limit Control System", lead by Yuhang Zhang, has been accepted for publication in the Intelligent Transportation Systems Magazine (ITSM).
 1. August 2025: I have worked as Associate Editor for the next [IEEE Latin American Control Conference (LACC 2025)](https://amca.mx/congresos/clca2025/).
+1. July 2025: Our two papers accepted to I/ITSEC 2025 have been nominated to Best Papers. 
+1. June 2025: Two papers have been accepted to I/ITSEC 2025: "Trainee Action Recognition through Interaction Analysis in CCATT Mixed-Reality Training" led by Divya Mereddy, and "Video-Based Performance Evaluation for ECR Drills in Synthetic Training
+Environments" led by Surya Rayala.  
 1. May 2025: Our submission to the [DX Liu-ICE competition](https://vehsys.gitlab-pages.liu.se/dx25benchmarks/liuice/liuice_index) won the first place.
 1. May 2025: Our paper  ["1000DaySim"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D6ENug8AAAAJ&sortby=pubdate&citation_for_view=D6ENug8AAAAJ:hMsQuOkrut0C) led by Zhiyao Zhang won the Best Poster/Demo award at the 16th ACM/IEEE International Conference on Cyber-Physical Systems.
 1. April 2025: I have presented the results of our NASA SWS work in the NASA SWS R&D workshop on In-Time Safety Management Capabilities for Emerging Aviation Operations ([https://nari.arc.nasa.gov/events/sws-tc-2](https://nari.arc.nasa.gov/events/sws-tc-2)).
