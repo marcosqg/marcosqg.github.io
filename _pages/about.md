@@ -20,6 +20,7 @@ I am member of the Institute of Electrical and Electronics Engineers (IEEE), the
 
 Latest news
 ======
+1. September 2025: Our paper "Data-Driven Fault Detection and Isolation Enhanced with System Structural Relationships", lead by Austin Coursey, has won the Best Applied Paper award at DX'25.
 1. August 2025: Our paper "Real-World Deployment and Assessment of a Multi-Agent Reinforcement Learning-Based Variable Speed Limit Control System", lead by Yuhang Zhang, has been accepted for publication in the Intelligent Transportation Systems Magazine (ITSM).
 1. August 2025: I have worked as Associate Editor for the next [IEEE Latin American Control Conference (LACC 2025)](https://amca.mx/congresos/clca2025/).
 1. July 2025: Our two papers accepted to I/ITSEC 2025 have been nominated to Best Papers. 
