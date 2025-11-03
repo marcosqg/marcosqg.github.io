@@ -20,6 +20,7 @@ I am member of the Institute of Electrical and Electronics Engineers (IEEE), the
 
 Latest news
 ======
+1. October 2025: I have started to work as PI on my new project "Hybrid Surrogate-AI Modeling Framework for Resilience Analysis", funded by ERDC-CERL.
 1. September 2025: Our paper "Data-Driven Fault Detection and Isolation Enhanced with System Structural Relationships", lead by Austin Coursey, has won the Best Applied Paper award at DX'25.
 1. August 2025: Our paper "Real-World Deployment and Assessment of a Multi-Agent Reinforcement Learning-Based Variable Speed Limit Control System", lead by Yuhang Zhang, has been accepted for publication in the Intelligent Transportation Systems Magazine (ITSM).
 1. August 2025: I have worked as Associate Editor for the next [IEEE Latin American Control Conference (LACC 2025)](https://amca.mx/congresos/clca2025/).
