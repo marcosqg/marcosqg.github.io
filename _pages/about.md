@@ -20,6 +20,7 @@ I am member of the Institute of Electrical and Electronics Engineers (IEEE), the
 
 Latest news
 ======
+1. February 2026: Our paper "Enhancing Deployed Variable Speed Limit System with Cross-Fidelity Slowdown Prediction" led by Yuhang Zhang won the Best Student Paper award at the IEEE Forum for Innovative Sustainable Transportation Systems (FISTS). 
 1. November 2025: Our team with the Intelligent Systems Group (GSI-MACS) from University of Valladolid has won fourth place out of 34 teams in the [PHM-AP data challenge](https://phmap25.org/datachallenge.html#leaderboard). 
 1. October 2025: I have started to work as PI on my new project "Hybrid Surrogate-AI Modeling Framework for Resilience Analysis", funded by ERDC-CERL.
 1. September 2025: Our paper "Data-Driven Fault Detection and Isolation Enhanced with System Structural Relationships", lead by Austin Coursey, has won the Best Applied Paper award at DX'25.
