@@ -11,7 +11,7 @@ redirect_from:
 
 I am a research scientist at the Institute for Software Integrated Systems and adjunct professor in the Computer Science department at Vanderbilt University. My research interests are developing and applying foundational machine learning and reinforcement learning methods for the safety, control, and optimization of cyber-physical systems in crucial areas, such as smart mobility, safety in aerospace operations, and energy management optimization. 
 
-I co-lead two research groups of graduate and undergraduate students as part of the [Modeling and Analysis of Complex Systems (MACS) lab](https://lab.vanderbilt.edu/vumacs/) and the [Work lab](https://lab-work.github.io). We have developed  and deployed control systems across buildings, drones, and transportation infrastructure systems. 
+I co-lead two research groups of graduate and undergraduate students as part of the [Modeling and Analysis of Complex Systems (MACS) lab](https://lab.vanderbilt.edu/vumacs/) and the [Work lab](https://lab-work.github.io). We have developed and deployed control systems across buildings, drones, and transportation infrastructure systems. 
 
 I teach [different classes](https://marcosqg.github.io/teaching/) at the undergraduate and graduate levels. These courses are open to CS/DS students and students from other departments and majors. 
 
@@ -20,15 +20,22 @@ I am member of the Institute of Electrical and Electronics Engineers (IEEE), the
 
 Latest news
 ======
+1. August 2026: The graduate student Paula Mielgo is back for a one-month stay with our research group MACS.
+1. July 2026: I presented the paper "Toward Resilience-Oriented Control of Islanded Microgrids" was accepted at the IEEE/IFAC 10th International Conference on Control Automation and Diagnosis (ICCAD'26). 
+1. April 2026: My paper "Toward Resilience-Oriented Control of Islanded Microgrids" was accepted at the IEEE/IFAC 10th International Conference on Control Automation and Diagnosis (ICCAD'26). 
+1. March 2026: Our student Austin Coursey successfully defended his dissertation titled: "TOWARD DETECTING AND ADAPTING TO NON-STATIONARY DYNAMICS IN SAFETY-CONSTRAINED LIFELONG REINFORCEMENT LEARNING".
+1. March 2026: The graduate student Eldin Kurudzija from German Aerospace Center and advised by Günther Waxenegger-Wilfing started a three-month stay with our research group MACS. 
+1. March 2026: I have worked as Associate Editor for the next [IFAC Safeprocess](https://conferences.ifac-control.org/safeprocess2027/).
+1. February 2026: Our student Yuhang Zhang successfully defended his dissertation titled: "A MULTI-AGENT REINFORCEMENT LEARNING-BASED VARIABLE SPEED LIMIT CONTROL SYSTEM".
 1. February 2026: Our paper "Enhancing Deployed Variable Speed Limit System with Cross-Fidelity Slowdown Prediction" led by Yuhang Zhang won the Best Student Paper award at the IEEE Forum for Innovative Sustainable Transportation Systems (FISTS). 
 1. November 2025: Our team with the Intelligent Systems Group (GSI-MACS) from University of Valladolid has won fourth place out of 34 teams in the [PHM-AP data challenge](https://phmap25.org/datachallenge.html#leaderboard). 
 1. October 2025: I have started to work as PI on my new project "Hybrid Surrogate-AI Modeling Framework for Resilience Analysis", funded by ERDC-CERL.
 1. September 2025: Our paper "Data-Driven Fault Detection and Isolation Enhanced with System Structural Relationships", lead by Austin Coursey, has won the Best Applied Paper award at DX'25.
+1. August 2025: The graduate student Paula Mielgo from Universidad de Valladolid and advised by Anibal Bregon started a three-month stay with our research group MACS. 
 1. August 2025: Our paper "Real-World Deployment and Assessment of a Multi-Agent Reinforcement Learning-Based Variable Speed Limit Control System", lead by Yuhang Zhang, has been accepted for publication in the Intelligent Transportation Systems Magazine (ITSM).
 1. August 2025: I have worked as Associate Editor for the next [IEEE Latin American Control Conference (LACC 2025)](https://amca.mx/congresos/clca2025/).
 1. July 2025: Our two papers accepted to I/ITSEC 2025 have been nominated to Best Papers. 
-1. June 2025: Two papers have been accepted to I/ITSEC 2025: "Trainee Action Recognition through Interaction Analysis in CCATT Mixed-Reality Training" led by Divya Mereddy, and "Video-Based Performance Evaluation for ECR Drills in Synthetic Training
-Environments" led by Surya Rayala.  
+1. June 2025: Two papers have been accepted to I/ITSEC 2025: "Trainee Action Recognition through Interaction Analysis in CCATT Mixed-Reality Training" led by Divya Mereddy, and "Video-Based Performance Evaluation for ECR Drills in Synthetic Training Environments" led by Surya Rayala.  
 1. May 2025: Our submission to the [DX Liu-ICE competition](https://vehsys.gitlab-pages.liu.se/dx25benchmarks/liuice/liuice_index) won the first place.
 1. May 2025: Our paper  ["1000DaySim"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D6ENug8AAAAJ&sortby=pubdate&citation_for_view=D6ENug8AAAAJ:hMsQuOkrut0C) led by Zhiyao Zhang won the Best Poster/Demo award at the 16th ACM/IEEE International Conference on Cyber-Physical Systems.
 1. April 2025: I have presented the results of our NASA SWS work in the NASA SWS R&D workshop on In-Time Safety Management Capabilities for Emerging Aviation Operations ([https://nari.arc.nasa.gov/events/sws-tc-2](https://nari.arc.nasa.gov/events/sws-tc-2)).
