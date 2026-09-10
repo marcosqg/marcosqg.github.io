@@ -21,11 +21,13 @@ I am member of the Institute of Electrical and Electronics Engineers (IEEE), the
 Latest news
 ======
 1. August 2026: The graduate student Paula Mielgo is back for a one-month stay with our research group MACS.
+1. August 2026: I started to work as Associate Editor for [IEEE Transactions on Aerospace and Electronic Systems](https://ieee-aess.org/publications/taes).
+1. July 2026: Our paper "Hybrid Fault Detection and Isolation for the Fuel Turbopump Subsystem of the LOX/LNG Expander-Bleed Rocket Engine LUMEN" lead by Eldin Kurudzija from the Institute of Space Propulsion, German Aerospace Center (DLR) has been nominated for best paper at The 37th International Conference on Principles of Diagnosis and Resilient Systems (DX'26). 
 1. July 2026: I presented the paper "Toward Resilience-Oriented Control of Islanded Microgrids" was accepted at the IEEE/IFAC 10th International Conference on Control Automation and Diagnosis (ICCAD'26). 
 1. April 2026: My paper "Toward Resilience-Oriented Control of Islanded Microgrids" was accepted at the IEEE/IFAC 10th International Conference on Control Automation and Diagnosis (ICCAD'26). 
 1. March 2026: Our student Austin Coursey successfully defended his dissertation titled: "TOWARD DETECTING AND ADAPTING TO NON-STATIONARY DYNAMICS IN SAFETY-CONSTRAINED LIFELONG REINFORCEMENT LEARNING".
 1. March 2026: The graduate student Eldin Kurudzija from German Aerospace Center and advised by Günther Waxenegger-Wilfing started a three-month stay with our research group MACS. 
-1. March 2026: I have worked as Associate Editor for the next [IFAC Safeprocess](https://conferences.ifac-control.org/safeprocess2027/).
+1. March 2026: I started to work as Associate Editor for the next [IFAC Safeprocess](https://conferences.ifac-control.org/safeprocess2027/).
 1. February 2026: Our student Yuhang Zhang successfully defended his dissertation titled: "A MULTI-AGENT REINFORCEMENT LEARNING-BASED VARIABLE SPEED LIMIT CONTROL SYSTEM".
 1. February 2026: Our paper "Enhancing Deployed Variable Speed Limit System with Cross-Fidelity Slowdown Prediction" led by Yuhang Zhang won the Best Student Paper award at the IEEE Forum for Innovative Sustainable Transportation Systems (FISTS). 
 1. November 2025: Our team with the Intelligent Systems Group (GSI-MACS) from University of Valladolid has won fourth place out of 34 teams in the [PHM-AP data challenge](https://phmap25.org/datachallenge.html#leaderboard). 
