@@ -20,6 +20,7 @@ I am member of the Institute of Electrical and Electronics Engineers (IEEE), the
 
 Latest news
 ======
+1. September 2026: Our paper "Performance-Based Probabilistic RUL Prediction via Particle Filtering with Neural-Guided Inference", lead by Abel Diaz-Gonzalez, has been accepted for publication in the journal Mechanical Systems and Signal Processing.
 1. August 2026: The graduate student Paula Mielgo is back for a one-month stay with our research group MACS.
 1. August 2026: I started to work as Associate Editor for [IEEE Transactions on Aerospace and Electronic Systems](https://ieee-aess.org/publications/taes).
 1. July 2026: Our paper "Hybrid Fault Detection and Isolation for the Fuel Turbopump Subsystem of the LOX/LNG Expander-Bleed Rocket Engine LUMEN" lead by Eldin Kurudzija from the Institute of Space Propulsion, German Aerospace Center (DLR) has been nominated for best paper at The 37th International Conference on Principles of Diagnosis and Resilient Systems (DX'26). 
